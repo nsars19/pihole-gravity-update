@@ -1,11 +1,11 @@
 # pihole-gravity-update
 
-Used with cron to update the Gravity service daily
+A script to update the Gravity service
 
 ### Make the script executable
 <code>chmod u+x /path/to/script</code>
   
-### Create a cronjob
+### Use with Cron
 open cron jobs
 
 <code>crontab -e</code>
