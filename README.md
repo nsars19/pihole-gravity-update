@@ -3,7 +3,7 @@
 Used with cron to update the Gravity service daily
 
 ### Make the script executable
-<code> chmod u+x /path/to/scripts
+<code>chmod u+x /path/to/scripts</code>
   
 ### Create a cronjob
 open cron jobs
